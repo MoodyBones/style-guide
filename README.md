@@ -34,6 +34,7 @@ inspo:
 - https://syntax.fm/show/072/accessibility
 
 -https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
+
 <br>
 <br>
 
@@ -111,6 +112,7 @@ inspo:
 - most people use border box, but you should know how they effect one another without
 
 [https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+
 <br>
 <br>
 
