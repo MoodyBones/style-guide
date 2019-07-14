@@ -32,6 +32,8 @@ inspo:
 - start with Syntax podcast by Scott Tolinksky & Wes Bos
 - https://syntax.fm/show/072/accessibility
 
+-https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
+
 
 <h3>Attributes<h3>
 <h4>ID</h4>
