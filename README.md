@@ -49,7 +49,6 @@ inspo:
   - e.g. [https://reactjs.org/docs/getting-started.html#javascript-resources](https://reactjs.org/docs/getting-started.html#javascript-resources)
   - for gatsby or wordpress, there are plugins that will automatically generate ids
 <br>
-<br>
 
 
 <h4>Form</h4>
@@ -60,7 +59,6 @@ inspo:
 - what happens when you submit it
 - form submission
 - use regular html attributes in javascript
-<br>
 <br>
 
 
@@ -102,7 +100,6 @@ inspo:
 - and changing them with a breakpoint
 - future: nested grid, subgrid, auto fit min max
 <br>
-<br>
 
 
 <h4>Box model</h4>
@@ -114,7 +111,6 @@ inspo:
 [https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 
 <br>
-<br>
 
 
 <h4>Positioning</h4>
@@ -122,7 +118,6 @@ inspo:
 - too many devs using/abusing position absolute
 - knowing how position works, in relation to its parents, and what their position are
 - absolute, relative, fixed, sticky, static(default)
-<br>
 <br>
 
 
@@ -134,7 +129,6 @@ inspo:
 - stateful html: inputs can be empty, have placeholders, have text in them, be invalid, valid, hovered, focused, visited links,
 - visited link, you can not get the colour of a visited link via javascript. because there was a hack, where someone listed every url out there, then visited display block, the rest display none, then they grabbed the visible ones, and then you could link over links, and say if this link is purple, thats a security issue, because you can tell a users visiting history, while theyre on your website. so you can not get information from visited links styling via javascript
 - field set tag - for groups of inputs, you can disable it (a form tag won't)
-<br>
 <br>
 
 
@@ -152,7 +146,6 @@ inspo:
 - display none
 - huge foundational fundamentals
 <br>
-<br>
 
 
 <h4>Sizing Units</h4>
@@ -164,7 +157,6 @@ inspo:
 - % vs pixels, know when to use them, know why theyre there
 - fr unit for grid, only need to learn this when learning grid
 <br>
-<br>
 
 
 <h4>Typography</h4>
@@ -175,7 +167,6 @@ inspo:
     - this allows you to build very consistent looking typography systems
     - learning about collapsing margins helps you to write better css, less overrides, coz i'm letting css & html do the job they're meant to do
 - a font stack!??
-<br>
 <br>
 
 
