@@ -12,12 +12,12 @@ inspo:
 <br>
 
 <h1>s k i l l s  t o  p r a c t i c e</h1>
-<br>
 <h2>HTML</h2>
 <h3>Semantic markup</h3>
+
 - know what all the html elements are & what they're used for,
 - why are they meaningful/or not
-<br>
+
 - h1-h6
 - abbreviation
 - paragraph
@@ -27,13 +27,16 @@ inspo:
 - main
 - article
 
+
 <h3>Accessibility</h3>
+
 - start with Syntax podcast by Scott Tolinksky & Wes Bos
 - https://syntax.fm/show/072/accessibility
-<br>
-<br>
+
+
 <h3>Attributes<h3>
 <h4>ID</h4>
+
 - often misused, it should be unique and only applied to one thing on the page, the same thing every time
 - cool usage... if you put #id in the url bar, the browser will jump straight to that id
   - so you can jump straight to that part of the page
@@ -41,21 +44,24 @@ inspo:
   - e.g. [https://reactjs.org/docs/getting-started.html#javascript-resources](https://reactjs.org/docs/getting-started.html#javascript-resources)
   - for gatsby or wordpress, there are plugins that will automatically generate ids
 
+
 <h4>Form</h4>
+
     - name, action,
     - even if you are doing forms in javascript
     - how you associate labels with inputs
     - what happens when you submit it
     - form submission
     - use regular html attributes in javascript
-<br>
+
+
 <h4>Class</h4>
     - can be used all over the place
     - you're denoting what something is
     - used for a CSS selector
-<br>
-<br>
-<br>
+
+
+
 <h2>CSS</h2>
 
 <h3>Specificity</h3>
