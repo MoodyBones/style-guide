@@ -53,24 +53,25 @@ inspo:
 
 <h4>Form</h4>
 
-    - name, action,
-    - even if you are doing forms in javascript
-    - how you associate labels with inputs
-    - what happens when you submit it
-    - form submission
-    - use regular html attributes in javascript
+- name, action,
+- even if you are doing forms in javascript
+- how you associate labels with inputs
+- what happens when you submit it
+- form submission
+- use regular html attributes in javascript
 <br>
 <br>
 
 
 <h4>Class</h4>
-    - can be used all over the place
-    - you're denoting what something is
-    - used for a CSS selector
+
+- can be used all over the place
+- you're denoting what something is
+- used for a CSS selector
+
 <br>
 <br>
-<br>
-<br>
+
 
 
 <h2>CSS</h2>
