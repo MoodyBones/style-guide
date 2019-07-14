@@ -32,16 +32,15 @@ inspo:
 - https://syntax.fm/show/072/accessibility
 <br>
 <br>
-<h2>Attributes<h2>
+<h3>Attributes<h3>
 <h4>ID</h4>
+- often misused, it should be unique and only applied to one thing on the page, the same thing every time
+- cool usage... if you put #id in the url bar, the browser will jump straight to that id
+  - so you can jump straight to that part of the page
+  - if your heading tags don't have the id's then you can't link someone to a specific section on the page
+  - e.g. [https://reactjs.org/docs/getting-started.html#javascript-resources](https://reactjs.org/docs/getting-started.html#javascript-resources)
+  - for gatsby or wordpress, there are plugins that will automatically generate ids
 
-    - often misused, it should be unique and only applied to one thing on the page, the same thing every time
-    - cool usage... if you put #id in the url bar, the browser will jump straight to that id
-        - so you can jump straight to that part of the page
-        - if your heading tags don't have the id's then you can't link someone to a specific section on the page
-        - e.g. [https://reactjs.org/docs/getting-started.html#javascript-resources](https://reactjs.org/docs/getting-started.html#javascript-resources)
-    - for gatsby or wordpress, there are plugins that will automatically generate ids
-<br>
 <h4>Form</h4>
     - name, action,
     - even if you are doing forms in javascript
