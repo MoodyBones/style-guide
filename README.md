@@ -25,7 +25,8 @@ inspo:
   - aside
   - main
   - article
-
+<br>
+<br>
 
 <h3>Accessibility</h3>
 
@@ -33,6 +34,8 @@ inspo:
 - https://syntax.fm/show/072/accessibility
 
 -https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
+<br>
+<br>
 
 
 <h3>Attributes<h3>
@@ -44,6 +47,8 @@ inspo:
   - if your heading tags don't have the id's then you can't link someone to a specific section on the page
   - e.g. [https://reactjs.org/docs/getting-started.html#javascript-resources](https://reactjs.org/docs/getting-started.html#javascript-resources)
   - for gatsby or wordpress, there are plugins that will automatically generate ids
+<br>
+<br>
 
 
 <h4>Form</h4>
@@ -54,13 +59,18 @@ inspo:
     - what happens when you submit it
     - form submission
     - use regular html attributes in javascript
+<br>
+<br>
 
 
 <h4>Class</h4>
     - can be used all over the place
     - you're denoting what something is
     - used for a CSS selector
-
+<br>
+<br>
+<br>
+<br>
 
 
 <h2>CSS</h2>
@@ -71,11 +81,17 @@ inspo:
 - different topics & selectors have different levels in CSS
 - do not use important tag unless its Friday at 4.45pm, ok no don't do it
 - don't do in something big, without spending the time to study it first
+<br>
+<br>
+
 
 <h3>Selectors</h3>
 
 - class, id, descendant, direct descendant, attribute
 - area-open, area-selected, disabled selectors
+<br>
+<br>
+
 
 <h3>Setting up Layouts</h3>
 
@@ -83,6 +99,9 @@ inspo:
 
 - and changing them with a breakpoint
 - future: nested grid, subgrid, auto fit min max
+<br>
+<br>
+
 
 <h4>Box model</h4>
 
@@ -91,12 +110,18 @@ inspo:
 - most people use border box, but you should know how they effect one another without
 
 [https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+<br>
+<br>
+
 
 <h4>Positioning</h4>
 
 - too many devs using/abusing position absolute
 - knowing how position works, in relation to its parents, and what their position are
 - absolute, relative, fixed, sticky, static(default)
+<br>
+<br>
+
 
 <h4>Forms & Inputs</h4>
 
@@ -106,6 +131,9 @@ inspo:
 - stateful html: inputs can be empty, have placeholders, have text in them, be invalid, valid, hovered, focused, visited links,
 - visited link, you can not get the colour of a visited link via javascript. because there was a hack, where someone listed every url out there, then visited display block, the rest display none, then they grabbed the visible ones, and then you could link over links, and say if this link is purple, thats a security issue, because you can tell a users visiting history, while theyre on your website. so you can not get information from visited links styling via javascript
 - field set tag - for groups of inputs, you can disable it (a form tag won't)
+<br>
+<br>
+
 
 <h4>Block vs Inline vs Inline-block</h4>
 
@@ -120,6 +148,9 @@ inspo:
 - inline-block
 - display none
 - huge foundational fundamentals
+<br>
+<br>
+
 
 <h4>Sizing Units</h4>
 
@@ -129,6 +160,9 @@ inspo:
 - pixels vs ems vs rems, know where the differences are & when to use
 - % vs pixels, know when to use them, know why theyre there
 - fr unit for grid, only need to learn this when learning grid
+<br>
+<br>
+
 
 <h4>Typography</h4>
 
@@ -138,6 +172,9 @@ inspo:
     - this allows you to build very consistent looking typography systems
     - learning about collapsing margins helps you to write better css, less overrides, coz i'm letting css & html do the job they're meant to do
 - a font stack!??
+<br>
+<br>
+
 
 <h4>MEDIA QUERIES</h4>
 
