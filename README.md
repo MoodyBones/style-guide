@@ -17,15 +17,14 @@ inspo:
 
 - know what all the html elements are & what they're used for,
 - why are they meaningful/or not
-
-- h1-h6
-- abbreviation
-- paragraph
-- div, whats it for, why would/not you use a div,its a value of nothing
-- section
-- aside
-- main
-- article
+  - h1-h6
+  - abbreviation
+  - paragraph
+  - div, whats it for, why would/not you use a div,its a value of nothing
+  - section
+  - aside
+  - main
+  - article
 
 
 <h3>Accessibility</h3>
