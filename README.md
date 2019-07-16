@@ -175,3 +175,5 @@ inspo:
 - mobile first
     - things go from small up
 - desktop first
+- break points
+- read up on scalable text and images
